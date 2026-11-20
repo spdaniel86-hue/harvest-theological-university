@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #e2e8f0;
+    background-color: #060d1b;
+  }
+
+  .font-heading {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.01em;
+  }
+
+  .font-editorial {
+    font-family: 'Poppins', sans-serif;
+  }
+}
+
+/* Custom scrollbars and refined institutional accents */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #070e1e;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e3a6a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c59b27;
+}
+

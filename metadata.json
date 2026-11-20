@@ -1,0 +1,7 @@
+{
+  "name": "Harvester's Theological University (HATHUN)",
+  "description": "Harvester's Theological University (HATHUN) - Advancing theological education, academic excellence, and professional development from Certificate to PhD level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
